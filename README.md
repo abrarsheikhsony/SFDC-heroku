@@ -1,5 +1,4 @@
-# SFDC-heroku
-Salesforce and Heroku
+# Salesforce and Heroku
 
 ## Useful Resources
 <ul>
