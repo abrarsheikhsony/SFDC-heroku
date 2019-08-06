@@ -7,4 +7,6 @@
 
 <li><a href="https://developer.salesforce.com/events/webinars/the-java-best-practices-tools-performance-and-deployment" target="_blank" alt="Java Best Practices - Tools, Performance, and Deployment">Java Best Practices - Tools, Performance, and Deployment</a></li>
 
+<li><a href="https://json2apex.herokuapp.com" target="_blank" alt="JSON 2 Apex">JSON 2 Apex</a></li>
+
 </ul>
